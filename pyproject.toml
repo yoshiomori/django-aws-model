@@ -1,6 +1,6 @@
 [project]
 name = "django-aws-model"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Yoshio Mori", email="yoshiomori90@gmail.com" },
 ]
